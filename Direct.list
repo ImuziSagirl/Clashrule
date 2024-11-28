@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,45.207.207.135/32,DIRECT #匹配数据目标IP(直连)
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
